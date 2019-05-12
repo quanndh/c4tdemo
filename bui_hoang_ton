@@ -1,0 +1,7 @@
+bui hoang ton
+gu
+ 
+Run
+
+  git config --global user.email "buihoangton@example.com"
+  git config --global user.name "buihoangton"
