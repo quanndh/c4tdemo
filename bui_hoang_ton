@@ -3,5 +3,5 @@ gu
  
 Run
 
-  git config --global user.email "buihoangton@example.com"
+  git config --global user.email "vietnamcolen2020@gmail.com"
   git config --global user.name "buihoangton"
